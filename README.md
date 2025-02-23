@@ -4,8 +4,8 @@
 Dalam tahap ini, dilakukan pengujian model terhadap dataset uji yang belum pernah digunakan dalam proses pelatihan maupun validasi sebelumnya. Hal ini bertujuan untuk mengukur kemampuan generalisasi model terhadap data baru dan memahami kinerja prediksi di dunia nyata.
 
 🚀 Nama Anggota :
-Adila
-Alexander Panggabean
-Kevin William Markus Simbolon
-Novisna Lintang Negari
-Veraldo Efraim
+Adila,
+Alexander Panggabean,
+Kevin William Markus Simbolon,
+Novisna Lintang Negari,
+Veraldo Efraim.
